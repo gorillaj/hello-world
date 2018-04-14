@@ -1,3 +1,3 @@
 # hello-world
 tutorial exercise
-Jeazy here, learning Github.  I like it raw
+Jeazy here, learning Github.  Yeah baby, I like it raw.
